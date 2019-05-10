@@ -1,0 +1,127 @@
+body{
+    margin: 0px auto;
+    padding: 0px;
+}
+
+.container{
+    width: 100%;
+}
+
+section{
+    width:100%;
+}
+
+.box{
+    width: 20%;
+    border: 1px solid grey;
+    padding: 1%;
+    float: left;
+    margin: 2%;
+}
+
+.box_top{
+    width: 100%;
+}
+
+.box_header{
+    width: 60%;
+    float:left;
+}
+
+.box_badge{
+    width: 30%;
+    background: lightyellow;
+    float:left;
+    margin-top:-5%;
+    padding: 2%;
+    text-align: center;
+    font-weight: 600;
+}
+
+.btn_sub{
+    width: 100%;
+    padding-top:4%;
+}
+
+.btn_sub:hover{
+    color: lightseagreen;
+}
+
+.btn_sub a{
+    background:lightseagreen;
+    width:100%;
+    padding: 2%;
+}
+
+.btn_sub a:hover{
+    border:1px solid lightseagreen;
+    background: none;
+    width:100%;
+    color:lightseagreen!important;
+}
+
+.btn_sub a button{
+    background: none;
+    border: none;
+    color:#FFFFFF;
+    width: 100%;
+    margin-top: 2%;
+}
+
+.btn_sub a button:hover{
+    color:lightseagreen!important;
+}
+
+.box_info{
+    width:100%;
+    float:left;
+    padding-bottom: 5%;
+}
+
+h4{
+    color: grey;
+}
+
+header{
+    margin-left: 7%;
+}
+
+.main{
+    margin-left: 20%;
+}
+
+.main h2{
+    margin-top: 4%;
+    margin-left: 2%;
+}
+
+.main p{
+    margin-left: 2%;
+}
+
+footer{
+    width: 100%;
+    float: left;
+    text-align: center;
+}
+
+@media screen and (max-width: 650px){
+    .container{
+        width: 100%;
+        padding:0;
+        margin:0 auto;
+    }
+
+    .main{
+        margin-left: 0%;
+    }
+
+    .box{
+        width:90%;
+        float: left;
+    }
+
+    .box_badge{
+        margin-top: -1%;
+    }
+}

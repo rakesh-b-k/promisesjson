@@ -1,0 +1,72 @@
+[
+    {
+      "plan_name": "Aggressive Growth",
+      "description": "No lock-in. Best suited for Monthly SIP Recommend investing for 5 to 10 Years",
+      "benefits": [
+        "Just started working?",
+        "Get into habit of investing",
+        "Grow wealth for cost of beer and pizza over weekends"
+      ],
+      "tick": "https://assets1.cleartax-cdn.com/img/newstyles/icons/tick.png",
+      "gold": "https://assets1.cleartax-cdn.com/clearsave/images/gold_medal.png",
+      "funds": [
+        "https://assets1.cleartax-cdn.com/clearsave/images/Reliance.png",
+        "https://assets1.cleartax-cdn.com/clearsave/images/new_dsp_logo.png",
+        "https://assets1.cleartax-cdn.com/clearsave/images/Axis.png"
+      ],
+      "avg_returns": {
+        "5_years": "20.8",
+        "3_years": "17.2",
+        "1_year": "-2.7"
+      },
+      "avg": "20.8",
+      "ret": "5y Return",
+      "linker": "https://cleartax.in/save/plan/26"
+    },
+    {
+      "plan_name": "Grow rich",
+      "description": "Best suited for high returns in long-term. Suggest investing for 5 or more Years",
+      "benefits": [
+        "High returns, balanced risk",
+        "Expertly chosen funds",
+        "Invest consistently to grow wealth"
+      ],
+      "tick": "https://assets1.cleartax-cdn.com/img/newstyles/icons/tick.png",
+      "gold": "https://assets1.cleartax-cdn.com/clearsave/images/gold_medal.png",
+      "funds": [
+        "https://assets1.cleartax-cdn.com/clearsave/images/Reliance.png",
+        "https://assets1.cleartax-cdn.com/clearsave/images/Axis.png"
+      ],
+      "avg_returns": {
+        "5_years": "21.8",
+        "3_years": "16.2",
+        "1_year": "0.7"
+      },
+      "avg": "21.8",
+      "ret": "5y Return",
+      "linker": "https://cleartax.in/save/plan/22"
+    },
+    {
+      "plan_name": "Balanced Growth",
+      "description": "No lock-in. Best suited for Monthly SIP Recommend investing for 5 to 10 Years",
+      "benefits": [
+        "Buy a car or go on world tour",
+        "Realise your short-term goals",
+        "High returns at slightly higher risk."
+      ],
+      "tick": "https://assets1.cleartax-cdn.com/img/newstyles/icons/tick.png",  
+      "gold": "https://assets1.cleartax-cdn.com/clearsave/images/gold_medal.png",
+      "funds": [
+        "https://assets1.cleartax-cdn.com/clearsave/images/new_dsp_logo.png",
+        "https://assets1.cleartax-cdn.com/clearsave/images/Axis.png"
+      ],
+      "avg_returns": {
+        "5_years": "18.2",
+        "3_years": "13.2",
+        "1_year": "6.7"
+      },
+      "avg": "18.2",
+      "ret": "5y Return",
+      "linker": "https://cleartax.in/save/plan/25"
+    }
+  ]

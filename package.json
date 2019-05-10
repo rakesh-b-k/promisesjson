@@ -1,0 +1,24 @@
+{
+  "name": "invest",
+  "version": "1.0.0",
+  "description": "Fetching Data Using Promises",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "rakesh-b-k"
+  },
+  "keywords": [
+    "Fetch",
+    "Api",
+    "Promises"
+  ],
+  "author": "Rakesh-B-K",
+  "license": "ISC",
+  "homepage": "https://rakesh-b-k.github.io/promisesjson",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
